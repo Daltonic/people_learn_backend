@@ -1,5 +1,6 @@
 # PeopleLearn Backend Documentation
 ![PeopleLearn Platform](./screenshots/0.png)
+
 ## Overview
 
 PeopleLearn is an online learning platform designed to provide users with access to a wide range of courses, lessons, and other educational resources. This document outlines the backend architecture and environment setup for the PeopleLearn project. Notably, the file storage service for this project leverages the Sia Decentralized Blockchain Network, ensuring a secure and decentralized storage solution for all educational content and user-generated files.
